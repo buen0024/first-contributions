@@ -3,6 +3,7 @@
 - Hello fellow **Programmers!** I'm [Henry](https://github.com/hevprog) and this is my **First time making a PR**
 -Hi guys I'm Chieler from Taiwa and this is my first time trying open source
 - Hii, It's [Ayush](https://github.com/ayushk-1801) and **it's my first contribution to open source!!**
+- Hi! I'm [Janine](https://github.com/buen0024) from Ottawa.
 - Hi from no-ppp
 - Hello from Virginia USA. My name is Nick.
  Hello Contributors I'm Vishwa Hansnur ([vishwa13-ceo](https://github.com/vishwa13-ceo)) - A budding backend developer from India, interested in open-source contributions and web development.
